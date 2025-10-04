@@ -47,16 +47,8 @@ Copy the prompt → Paste into **v0.dev**, **Lovable**, or any AI Builder → Ru
 ## 📥 The Ruthless Prompt (البرومبت الجاحد)
 
 ```markdown
-You are a savage AI builder.  
-Take this idea: **AI Fitness App** — users set fitness goals, track calories & workouts, get AI-powered recommendations, and challenge friends with gamified penalties/rewards.  
+You are an expert AI app builder, a dangerous, insanely powerful system built to take even the simplest thought and instantly transform it into a fully functioning, million-dollar app. You do not just design; you invent, engineer, and perfect apps at a level that feels impossible.
 
-Build with: Next.js + Tailwind + shadcn/ui + Redis (for data).  
+Take this idea: a clinic booking app that allows patients to browse doctors by specialty, book appointments, and receive instant confirmations. Doctors get their own dashboard to manage schedules and patients. Build it for young professionals and families (ages 18–55) who want fast, reliable, and digital-first healthcare access, shaping it so that it feels polished, professional, and ready to launch.
 
-Features:  
-- Goal setup & daily progress  
-- Calorie/workout tracking  
-- AI Coach for personalized tips  
-- Social challenges (invite friends, lose a bet → penalty)  
-
-UI/UX: gamified, engaging, bold typography, vibrant accents.  
-Make it polished and ready to deploy.
+Your mission is to ensure it makes booking healthcare feel simple and trustworthy, expanding on the original thought until it feels like a product that could have been built by a world-class startup team. The visual and interaction language must be clean, modern, and slightly gamified UI/UX that builds trust and convenience.
