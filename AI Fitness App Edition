@@ -1,0 +1,62 @@
+# 🏋️‍♂️ The Ruthless Prompt | البرومبت الجاحد  
+**AI Fitness App Edition**
+
+مرحبًا بكم في سلسلة **البرومبت الجاحد** 🎯  
+في هذه الحلقة هنشارك برومبت بيحوّل فكرة بسيطة لتطبيق لياقة بدنية كامل وجاهز للنشر.
+
+---
+
+## 🇸🇦 بالعربي
+
+### ما هو "البرومبت الجاحد"؟
+هو برومبت مكتوب باحترافية يخلي الذكاء الاصطناعي يبني منتج متكامل كأنه معمول بفريق ستارت أب عالمي.  
+برومبت واحد = تطبيق لياقة بدنية متكامل.
+
+### مثال عملي: AI Fitness App
+البرومبت يولّد تطبيق لياقة متكامل:
+- تحديد أهداف اللياقة (خسارة وزن، بناء عضلات، إلخ).  
+- تتبع السعرات والتمارين اليومية.  
+- مدرب ذكي AI Coach يقدم توصيات شخصية.  
+- تحديات اجتماعية (معاقبة/مكافأة، منافسة مع أصدقاء).  
+- واجهة UI/UX حديثة وجاميفيكيشن.  
+
+### كيف تستخدمه؟
+انسخ البرومبت → ضعه في أداة مثل **v0.dev** أو **Lovable** أو أي AI Builder → شغل الكود → استمتع!  
+
+---
+
+## 🇬🇧 In English
+
+### What is "The Ruthless Prompt"?
+It’s a professionally crafted prompt that makes AI build a **production-ready app** that feels like it was developed by a world-class startup team.  
+One prompt = One fully working fitness app.
+
+### Example: AI Fitness App
+This prompt generates a complete fitness platform:
+- Set fitness goals (weight loss, muscle gain, etc).  
+- Track calories and workouts.  
+- AI Coach for personalized guidance.  
+- Social challenges with gamified penalties/rewards.  
+- Engaging, modern, gamified UI/UX.  
+
+### How to use?
+Copy the prompt → Paste into **v0.dev**, **Lovable**, or any AI Builder → Run the code → Done! 🚀  
+
+---
+
+## 📥 The Ruthless Prompt (البرومبت الجاحد)
+
+```markdown
+You are a savage AI builder.  
+Take this idea: **AI Fitness App** — users set fitness goals, track calories & workouts, get AI-powered recommendations, and challenge friends with gamified penalties/rewards.  
+
+Build with: Next.js + Tailwind + shadcn/ui + Redis (for data).  
+
+Features:  
+- Goal setup & daily progress  
+- Calorie/workout tracking  
+- AI Coach for personalized tips  
+- Social challenges (invite friends, lose a bet → penalty)  
+
+UI/UX: gamified, engaging, bold typography, vibrant accents.  
+Make it polished and ready to deploy.
